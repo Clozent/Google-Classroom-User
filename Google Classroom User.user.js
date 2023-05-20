@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Google Classroom User
-// @namespace    https://github.com/ndvarn/
-// @version      0.3
-// @updateURL    https://raw.githubusercontent.com/ndvarn/Google-Classroom-User/main/Google%20Classroom%20User.user.js
-// @downloadURL  https://raw.githubusercontent.com/ndvarn/Google-Classroom-User/main/Google%20Classroom%20User.user.js
+// @namespace    https://github.com/Clozent/
+// @version      0.4
+// @updateURL    https://raw.githubusercontent.com/Clozent/Google-Classroom-User/main/Google%20Classroom%20User.user.js
+// @downloadURL  https://raw.githubusercontent.com/Clozent/Google-Classroom-User/main/Google%20Classroom%20User.user.js
 // @description  Redirects to the correct user from the main user in Google Classroom.
-// @author       ndvarn
+// @author       Clozent
 // @match        http://classroom.google.com/u/0/
 // @match        https://classroom.google.com/u/0/
 // @match        http://classroom.google.com/
